@@ -12,5 +12,4 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with React.js and Backend
 - 💬 Ask me about Collaboration
 - 📫 How to reach me: khishamuddin.syed@mit.asia
-- 😄 Pronouns: Syed
 
