@@ -13,7 +13,3 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Collaboration
 - 📫 How to reach me: khishamuddin.syed@mit.asia.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@officialkmsyed/30-nites-of-code)  
-  ![@officialkmsyed #30NitesOfCode](https://www.codedex.io/api/petStatus?user=officialkmsyed)
-
