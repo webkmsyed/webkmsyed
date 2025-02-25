@@ -101,7 +101,7 @@ I am a passionate **Web Developer & Designer** currently learning at **Chai Code
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webkmsyed&theme=dark&hide_border=true" width="48%"/>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=webkmsyed&theme=highcontrast&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <br>
