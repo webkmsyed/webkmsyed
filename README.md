@@ -37,10 +37,57 @@ I am a passionate **Web Developer & Designer** currently learning at **Chai Code
 
 ---
 
-### 🔥 Latest Blogs:
-<a href="https://jargoniseasy.com" target="_blank">
-  <img src="https://img.shields.io/badge/Latest%20Blog-Read%20Now-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Latest Blog">
-</a>
+### 🔥 Top Posts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jargoniseasy.com/client-side-vs-server-side">
+        <img src="images/blogPost/Article-03.webp" alt="Client vs Server" width="200">
+      </a>
+      <br/><sub>Client vs Server</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/http-vs-https">
+        <img src="images/blogPost/Article-07.webp" alt="HTTP vs HTTPS" width="200">
+      </a>
+      <br/><sub>HTTP vs HTTPS</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/html-short-notes">
+        <img src="images/blogPost/Article-09.webp" alt="HTML Short Notes" width="200">
+      </a>
+      <br/><sub>HTML Short Notes</sub>
+    </td>
+  </tr>
+</table>
+
+
+### 📚 Series
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/javascript">
+        <img src="images/blogPost/js-cover.webp" alt="JavaScript Series" width="200">
+      </a>
+      <br/><sub>JavaScript Series</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/css">
+        <img src="images/blogPost/css-cover.webp" alt="CSS Series" width="200">
+      </a>
+      <br/><sub>CSS Series</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/html">
+        <img src="images/blogPost/html-cover.webp" alt="HTML Series" width="200">
+      </a>
+      <br/><sub>HTML Series</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
