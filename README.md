@@ -94,7 +94,7 @@ I am a passionate **Web Developer & Designer** currently learning at **Chai Code
 ### 🏆 Other Profiles:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webkmsyed)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://community.openai.com/u/webkmsyed/)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/webkmsyed)
+
 
 ---
 
