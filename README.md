@@ -43,19 +43,19 @@ I am a passionate **Web Developer & Designer** currently learning at **Chai Code
   <tr>
     <td align="center">
       <a href="https://jargoniseasy.com/client-side-vs-server-side">
-        <img src="images/blogPost/Article-03.webp" alt="Client vs Server" width="200">
+        <img src="images/blogPost/01.webp" alt="Client vs Server" width="200">
       </a>
       <br/><sub>Client vs Server</sub>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/http-vs-https">
-        <img src="images/blogPost/Article-07.webp" alt="HTTP vs HTTPS" width="200">
+        <img src="images/blogPost/02.webp" alt="HTTP vs HTTPS" width="200">
       </a>
       <br/><sub>HTTP vs HTTPS</sub>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/html-short-notes">
-        <img src="images/blogPost/Article-09.webp" alt="HTML Short Notes" width="200">
+        <img src="images/blogPost/03.webp" alt="HTML Short Notes" width="200">
       </a>
       <br/><sub>HTML Short Notes</sub>
     </td>
