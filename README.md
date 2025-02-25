@@ -32,8 +32,8 @@ I am a passionate **Web Developer & Designer** currently learning at **Chai Code
 ---
 
 ### 📝 Blogs & Websites:
-- 🌐 [Personal Site](https://webkmsyed.com)
-- 📖 [Tech Blog](https://jargoniseasy.com)
+- 🌍 **Personal Site:** [webkmsyed.com](https://webkmsyed.com)
+- 📖 **Tech Blog:** [jargoniseasy.com](https://jargoniseasy.com)
 
 ---
 
@@ -52,11 +52,17 @@ I am a passionate **Web Developer & Designer** currently learning at **Chai Code
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=webkmsyed&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webkmsyed&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webkmsyed&theme=dark&hide_border=true">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webkmsyed&layout=compact&theme=dark)
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webkmsyed&show_icons=true&theme=dark" width="38%"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webkmsyed&layout=compact&theme=dark" width="34%"/>
+</div>
+
 
 ---
 
