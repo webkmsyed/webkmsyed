@@ -1,116 +1,66 @@
-### Hi there, I'm **Khishamuddin Syed** 👋
+<h1 align="center">Khishamuddin Syed</h1>
 
-> **Learn. Think. Design. Develop.**
+<p align="center">
+  <b>Web Developer • Designer • Builder</b>
+</p>
 
-I am a passionate **Web Developer & Designer** currently learning at **Chai Code Cohort** ☕ and working on exciting projects. Always exploring new tech & sharing knowledge!
-
----
-
-### 🚀 Skills & Tech Stack:
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  Building clean, scalable, and user-focused web experiences.
+</p>
 
 ---
 
-### 📌 Current Status:
-- 🚀 **Currently Learning:** Chai Code Cohort
-- 🔧 **Working On:** New Web Development Project
+## ⚫ Profile
+
+I am a web developer focused on creating modern, performant, and visually clean applications.  
+Currently improving my skills through consistent learning and real-world projects.
 
 ---
 
-### 🌎 Connect with Me:
+## ⚫ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webkmsyed/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/webkmsyed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/webkmsyed/)
-[![Daily.dev](https://img.shields.io/badge/Daily.dev-222222?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/webkmsyed)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@webkmsyed)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" />
+</p>
 
 ---
 
-### 📝 Blogs & Websites:
-- 🌍 **Personal Site:** [webkmsyed.com](https://webkmsyed.com)
-- 📖 **Tech Blog:** [jargoniseasy.com](https://jargoniseasy.com)
+## ⚫ Current Focus
+
+- Developing production-ready frontend projects  
+- Strengthening JavaScript fundamentals  
+- Improving UI/UX clarity and consistency  
 
 ---
 
-### 🔥 Top Posts
+## ⚫ Work
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://jargoniseasy.com/client-side-vs-server-side">
-        <img src="images/blogPost/01.webp" alt="Client vs Server" width="200">
-      </a>
-      <br/><sub>Client vs Server</sub>
-    </td>
-    <td align="center">
-      <a href="https://jargoniseasy.com/http-vs-https">
-        <img src="images/blogPost/02.webp" alt="HTTP vs HTTPS" width="200">
-      </a>
-      <br/><sub>HTTP vs HTTPS</sub>
-    </td>
-    <td align="center">
-      <a href="https://jargoniseasy.com/html-short-notes">
-        <img src="images/blogPost/03.webp" alt="HTML Short Notes" width="200">
-      </a>
-      <br/><sub>HTML Short Notes</sub>
-    </td>
-  </tr>
-</table>
-
-
-### 📚 Series
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://jargoniseasy.com/series/javascript">
-        <img src="images/blogPost/js-cover.webp" alt="JavaScript Series" width="200">
-      </a>
-      <br/><sub>JavaScript Series</sub>
-    </td>
-    <td align="center">
-      <a href="https://jargoniseasy.com/series/css">
-        <img src="images/blogPost/css-cover.webp" alt="CSS Series" width="200">
-      </a>
-      <br/><sub>CSS Series</sub>
-    </td>
-    <td align="center">
-      <a href="https://jargoniseasy.com/series/html">
-        <img src="images/blogPost/html-cover.webp" alt="HTML Series" width="200">
-      </a>
-      <br/><sub>HTML Series</sub>
-    </td>
-  </tr>
-</table>
-
+- Portfolio → https://webkmsyed.com  
+- Blog → https://jargoniseasy.com  
 
 ---
 
-### 🏆 Other Profiles:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webkmsyed)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://community.openai.com/u/webkmsyed/)
+## ⚫ Connect
 
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=webkmsyed&theme=highcontrast&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webkmsyed&show_icons=true&theme=dark" width="38%"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webkmsyed&layout=compact&theme=dark" width="34%"/>
-</div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/webkmsyed/">LinkedIn</a> •
+  <a href="https://x.com/webkmsyed">X</a> •
+  <a href="https://github.com/webkmsyed">GitHub</a>
+</p>
 
 ---
 
-> **"Keep Learning, Keep Building! 🚀"**
+## ⚫ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webkmsyed&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webkmsyed&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## ⚫ Philosophy
+
+<p align="center">
+  <i>Consistency over intensity. Clean code over clever code.</i>
+</p>
