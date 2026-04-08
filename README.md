@@ -1,19 +1,20 @@
 <h1 align="center">Khishamuddin Syed</h1>
 
 <p align="center">
-  <b>Web Developer • Designer • Builder</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Learn.+Think.+Design.+Develop." />
 </p>
 
 <p align="center">
-  Building clean, scalable, and user-focused web experiences.
+  Web Developer focused on building clean, scalable, and user-focused web applications.
 </p>
 
 ---
 
-## ⚫ Profile
+## ⚫ About
 
-I am a web developer focused on creating modern, performant, and visually clean applications.  
-Currently improving my skills through consistent learning and real-world projects.
+I am a web developer currently focused on building and growing **jargoniseasy.com**, a platform aimed at simplifying technical concepts and building helpful tools for developers.
+
+I prioritize clarity, usability, and maintainable code in everything I build.
 
 ---
 
@@ -25,42 +26,56 @@ Currently improving my skills through consistent learning and real-world project
 
 ---
 
-## ⚫ Current Focus
+## ⚫ Current Work
 
-- Developing production-ready frontend projects  
-- Strengthening JavaScript fundamentals  
-- Improving UI/UX clarity and consistency  
+- Building and scaling **jargoniseasy.com**  
+- Improving frontend and performance skills 
+- Writing simplified technical content  
 
 ---
 
-## ⚫ Work
 
-- Portfolio → https://webkmsyed.com  
-- Blog → https://jargoniseasy.com  
+## ⚫ Writing at
+
+- https://blog.jargoniseasy.com
+- https://blog.webkmsyed.com
 
 ---
 
 ## ⚫ Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/webkmsyed/">LinkedIn</a> •
-  <a href="https://x.com/webkmsyed">X</a> •
-  <a href="https://github.com/webkmsyed">GitHub</a>
+  <a href="https://github.com/webkmsyed">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/webkmsyed/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://x.com/webkmsyed">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+  </a>
+  <a href="https://www.instagram.com/webkmsyed/">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+</p>
+
+
+---
+
+## ⚫ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webkmsyed&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## ⚫ GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webkmsyed&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webkmsyed&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=webkmsyed&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## ⚫ Philosophy
+<hr style="border: 0.5px solid #222;" />
 
 <p align="center">
-  <i>Consistency over intensity. Clean code over clever code.</i>
+  <img src="https://komarev.com/ghpvc/?username=webkmsyed&color=blueviolet&style=flat" />
 </p>
