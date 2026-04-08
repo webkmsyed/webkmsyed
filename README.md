@@ -21,7 +21,7 @@ I prioritize clarity, usability, and maintainable code in everything I build.
 ## ⚫ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,figma&theme=dark" />
 </p>
 
 ---
