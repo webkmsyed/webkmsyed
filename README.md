@@ -1,7 +1,7 @@
 <h1 align="center">Khishamuddin Syed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Learn.+Think.+Design.+Develop." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF9F1C&center=true&vCenter=true&lines=Learn.+Think.+Design.+Develop." />
 </p>
 
 <p align="center">
@@ -64,18 +64,18 @@ I prioritize clarity, usability, and maintainable code in everything I build.
 
 ## ⚫ GitHub Activity
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webkmsyed&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webkmsyed&theme=react-dark&hide_border=true&area=true&color=ff9f1c&line=ff9f1c&point=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=webkmsyed&theme=dark&hide_border=true&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=webkmsyed&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr style="border: 0.5px solid #222;" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webkmsyed&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=webkmsyed&color=ff9f1c&style=flat" />
 </p>
