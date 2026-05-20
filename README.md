@@ -59,6 +59,12 @@ I prioritize clarity, usability, and maintainable code in everything I build.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://app.daily.dev/webkmsyed">
+    <img src="https://api.daily.dev/devcards/v2/VqsDuiiXz6AnTS1eKLMWz.png?type=default&r=dj4" width="220" alt="Khishamuddin Syed's Dev Card"/>
+  </a>
+</p>
+
 
 ---
 
